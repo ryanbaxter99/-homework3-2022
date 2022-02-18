@@ -184,7 +184,6 @@ img{
   }
 
   .container{
-    display: grid;
     grid-template-columns: 50px auto 500px auto 50px;
     grid-template-rows: 300px 300px 300px 300px;; 
   }
